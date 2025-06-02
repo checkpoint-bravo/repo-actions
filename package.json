@@ -1,0 +1,11 @@
+{
+  "name": "repo-actions",
+  "version": "1.0.0",
+  "description": "This repo is used to share test Github actions between the repos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Works!\""
+  },
+  "author": "",
+  "license": "ISC"
+}
